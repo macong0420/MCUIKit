@@ -23,9 +23,9 @@ Pod::Spec.new do |spec|
                         2.常用控件的拓展
                    DESC
   spec.homepage     = "http://EXAMPLE/MCUIKit.podsepc"
-  spec.license      = "MIT (example)"
+  spec.license      = "MIT"
   spec.author             = { "马聪聪" => "macongcong@zongheng.com" }
-  spec.source       = { :git => "http://EXAMPLE/MCUIKit.podsepc.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/macong0420/MCUIKit.git", :tag => "#{spec.version}" }
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
