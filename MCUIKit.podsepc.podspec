@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MCUIKit.podsepc"
-  spec.version      = "1.1.1"
+  spec.version      = "1.1.2"
   spec.summary      = "常用UI快捷使用SDK."
   spec.description  = <<-DESC
                         1.快捷使用frame的.x.y等常用属性
